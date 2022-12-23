@@ -1,9 +1,9 @@
-<h1> sos oynu</h1>
+<h1>XOX game/h1>
 
 
 
 
-<p>Html, css, javascript sos oynu</p>
+<p>XoX Game With HTML CSS Javascript/p>
 
 
 
